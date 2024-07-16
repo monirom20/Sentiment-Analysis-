@@ -37,3 +37,6 @@ provide their location or it couldn’t be determined.
 - Sentiment: This is the target variable, representing the sentiment of the tweet.
 It is classified into different categories: "Neutral", "Positive", "Extremely
 Negative", and "Extremely Positive"
+
+#License
+This project is licensed under the MIT License. 
